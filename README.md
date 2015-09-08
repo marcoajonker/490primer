@@ -1,4 +1,4 @@
-# poptags
+# 490primer
 Basic website for COMP 490 to show use of CGI
 
 To access the page on my csun site go to
