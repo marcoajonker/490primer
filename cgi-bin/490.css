@@ -1,0 +1,31 @@
+html, body {
+    padding: 0;
+    margin:0;
+    background: #f0f1ec;
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    text-align: center;
+    color:black;
+    line-height: 46px;
+    margin-bottom: 20px;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:thin;
+}
+p {
+    text-align: center;
+}
+.tube {
+    background-color: black
+}
+a {
+    color: #00baff;
+}
+a:hover {
+    color: #red;
+}
+span {
+    font-size: 20px;
+}
