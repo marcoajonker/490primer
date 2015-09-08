@@ -8,7 +8,11 @@ you can also add ~mj47069/cgi-bin/simple.cgi?{query} at the end to see what page
 all files are in cgi-bin
 ------
 simple.cgi -- cgi script
+------
 baseindex.html -- landing page
+------
 queryindex.html -- when you make a query
+-------
 404.html -- when you make a request with any verb other than 'GET'
+-------
 490.css -- styling
